@@ -1,2 +1,8 @@
+wheel
+dlib
+numpy
 Pillow
 pillow-heif
+opencv-python
+face_recognition_models
+face_recognition
